@@ -1,6 +1,10 @@
 Profiler CI kernels
 ===================
 
+> [!IMPORTANT]
+>
+> This is deprecated: we [switched](https://github.com/elastic/otel-profiling-agent/pull/42) to using the [Cilium CI kernel repository](https://github.com/cilium/ci-kernels/pkgs/container/ci-kernels) directly instead.
+
 Kernel images for use in the CI of the [OTel profiling agent](https://github.com/elastic/otel-profiling-agent).
 
 ## License
